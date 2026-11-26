@@ -1,0 +1,9 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+GiacSciML = "9c7e891f-02c6-4199-b5af-e34042cbfaad"
+
+[sources]
+GiacSciML = {path = ".."}
+
+[compat]
+Documenter = "1"
